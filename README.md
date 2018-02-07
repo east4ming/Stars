@@ -72,3 +72,6 @@ Show stars.
 3. 调用`stars.draw(the_screen)`绘制所有星星
 4. 显示
 
+## 随机星星
+
+- 主要是修改`star_x`和`star_y`, 保证在一个合理的范围内去随机数.
